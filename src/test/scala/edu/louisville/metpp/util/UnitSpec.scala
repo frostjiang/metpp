@@ -1,4 +1,4 @@
-package edu.louisville.metpp
+package edu.louisville.metpp.util
 
 import org.joda.time.DateTime
 import org.scalatest.{BeforeAndAfterAll, BeforeAndAfterEach, FlatSpec, Matchers}

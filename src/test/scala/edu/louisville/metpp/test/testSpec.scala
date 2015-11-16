@@ -1,6 +1,6 @@
 package edu.louisville.metpp.test
 
-import edu.louisville.metpp.UnitSpec
+import edu.louisville.metpp.util.UnitSpec
 
 class testSpec extends UnitSpec {
 
